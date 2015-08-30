@@ -1,2 +1,4 @@
 square
 circle
+triangle
+traingle
